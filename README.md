@@ -27,6 +27,15 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+
+### Requirement 
+The application will display a grid of all the numbers from 1 to 144 when clicked  all the numbers which are a multiple of that number should be highlighted.
+
+For example if 2 is clicked all numbers like 2,4,6,8 etc would be highlighted
+If 6 is clicked all numbers like 6,12,18 etc would be highlighted
+
+
+
 ### Tech specs used 
 
 React : React is used to create fast, scable and simple user interface.
