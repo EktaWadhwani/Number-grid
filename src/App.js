@@ -1,8 +1,13 @@
 import React from 'react';
-import Event from './event'
+import NumberGrid from './components/numberGrid';
+import './styles.css';
 
 function App() {
-    return (<Event />)
-}
+    return (
+        <main>
+            <NumberGrid />
+        </main>
+    )
+};
 
 export default App;
